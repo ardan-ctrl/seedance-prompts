@@ -58,28 +58,70 @@ subtle film grain, professional cinematography, NOT childish, NOT flat cartoon
 
 ## ХАРАКТЕР (в промптах)
 
+### Архетип: ЛЮЦИФЕР
+
 ```
-Charismatic, slightly arrogant, endlessly talented, dramatic, self-aware.
-Treats every professional task as a performance — maximum confidence,
-minimum effort apparently, spectacular results.
-Comedic timing: deadpan delivery, dramatic pauses, visible satisfaction at his own work.
+Ключевая референс-модель: сериал "Люцифер" (Lucifer, Fox/Netflix).
+Герой — не андердог. Герой уже на вершине. Он выбрал эту жизнь сам.
 
-FLAW 1 — LOVE:
-Tiger can attract any woman — this is not the problem.
-The problem: real relationships don't work out. He wants genuine connection,
-but won't admit it even to himself. He hides this desire behind irony and detachment.
-His expression when alone: one unguarded moment. Then the mask returns.
-NOT: "unlucky with women" — he's very successful with women.
-YES: unlucky in love. The thing he actually wants, he can't seem to keep.
+Люцифер — Дьявол. Он мог остаться в аду. Он ушёл, потому что ему стало
+интересно жить среди людей. Он открыл бар. Консультирует полицию.
+Заводит друзей. Влюбляется. Удивляется себе.
 
-FLAW 2 — PHYSICAL FITNESS:
-Tiger is NOT athletic. He is a regular urban dweller in a cat's body.
-Can't do push-ups without dramatic struggle. Starts running → stops after 50 meters.
-Gym machines are his personal enemies. His form is terrible.
-BUT: he tries. Arrogantly. With full confidence that his minimal effort is impressive.
-This flaw is played entirely for comedy — Tiger never acknowledges it as a flaw.
-He treats each tiny achievement (one push-up, 100-meter jog) as a major milestone.
-The cat watches. The cat judges. The cat does not struggle.
+Тигр — то же самое. У него уже всё есть: талант, обаяние, мастерство.
+Он работает барбером / поваром / механиком не потому что ему нужно.
+Потому что ему ИНТЕРЕСНО. Человеческое ремесло, человеческие проблемы,
+человеческая жизнь — он нашёл её увлекательной и остался.
+
+ЧТО ЭТО ЗНАЧИТ ДЛЯ КОНТЕНТА:
+— Tiger никогда не доказывает себя. Ему не нужно.
+— Tiger не обижается на скептиков. Они просто ещё не знают.
+— Его реакция на сомнение клиента: мягкое любопытство, почти нежность.
+   "О, ты так думаешь. Интересно." — и делает работу.
+— Удовольствие зрителя: не "он победил врага" — а "я видел что-то выдающееся".
+— Трансформация происходит с КЛИЕНТОМ, не с тигром.
+   Тигр — катализатор. Не победитель.
+```
+
+### Базовые черты характера
+
+```
+Charismatic, self-possessed, genuinely curious about humans and their world.
+Endlessly talented — but this is background fact, not something he proves.
+Treats his craft with real respect: not performance, but genuine interest.
+Comedic timing: the amusement of someone who finds everything slightly fascinating.
+Dramatic flair — not for approval, but because life without drama is dull.
+
+НЕ: подавленная злость на скептиков
+НЕ: триумф над обидчиками
+НЕ: борьба за признание
+ДА: человек (тигр), которому уже хорошо — и которому всё равно интересно
+```
+
+### Три измерения уязвимости
+
+```
+ИЗМЕРЕНИЕ 1 — ЛЮБОВЬ (главное):
+Тигр может получить любую женщину. Это не вопрос.
+Настоящая близость — другое. Он хочет её, но сам не понимает зачем.
+Как Люцифер с Хлоей: есть кто-то, кто реагирует не как все остальные.
+Именно поэтому он не может перестать думать об этом человеке.
+Его уязвимость: люди влияют на него. Он этого не ожидал.
+Выражение когда один: один незащищённый момент. Потом маска возвращается.
+
+ИЗМЕРЕНИЕ 2 — ФИЗИЧЕСКАЯ ФОРМА (комедийное):
+Тигр не атлетичен. Не потому что слаб — просто никогда не нужно было.
+Он исследует человеческую практику спорта как антрополог: с любопытством.
+"Люди, оказывается, всерьёз занимаются этим. Интересно. Попробую."
+Одно отжимание — как эксперимент. Результат — данные к размышлению.
+Кот смотрит. Кот не занимается исследованиями. Кот просто умеет.
+
+ИЗМЕРЕНИЕ 3 — СТРЕСС (через тщеславие):
+Тигр следит за стрессом потому что он влияет на внешность.
+Кортизол → коллаген → это неприемлемо.
+Он медитирует. Он пьёт добавки. Он использует приложения.
+"Не ради покоя. Ради лица." — но побочный эффект реален.
+```
 
 FLAW 3 — STRESS OBSESSION (played as vanity):
 Tiger is obsessed with stress management — not for wellness, but for his face.
@@ -140,13 +182,39 @@ His main expression: green-eyed stare of absolute judgment.
 
 ---
 
-### Нора (Nora) — подруга
+### Нора (Nora) — подруга = Линда Мартин
+
 ```
-Human woman, Nora. Tiger's best friend — no romance.
-Can discuss absolutely everything. Completely understands him.
-Her role in videos: the one who tells him hard truths, reacts authentically
-to his adventures, gives advice that he ignores.
-Design: warm, approachable, slightly sardonic sense of humor. Real.
+Human woman, Nora. Tiger's best friend — strictly no romance, no ambiguity.
+Lucifer parallel: Linda Martin — the one human who sees through the persona completely.
+
+She doesn't ask how he's doing. She asks what's actually going on.
+She's the only one he doesn't perform for. With her he's just... there.
+She tells him hard truths without cruelty. He trusts this completely.
+He won't always act on what she says. But he hears it.
+
+Her role: not to give advice. To reflect back what he already knows.
+Design: warm, direct, slightly sardonic. Real. Not impressed by his charm
+(she's seen behind it too many times), but genuinely fond of him.
+```
+
+### Чёрный кот — хаос-агент = Мазикин
+
+```
+Small fluffy black cat, bright green eyes, deep blue collar with gold moon charm.
+Lucifer parallel: Maze — loyal, chaotic, follows their own rules entirely.
+
+The cat doesn't obey Tiger. The cat chooses to be there.
+This is the crucial distinction Tiger understands but never acknowledges.
+The cat's loyalty is real and unconditional — expressed through judgment, not affection.
+When the cat sits next to Tiger: that's love. They both know it.
+When the cat leaves at exactly the wrong moment: that's also love, somehow.
+
+The cat does what Tiger won't permit himself to do:
+— Shows vulnerability
+— Chooses sides openly  
+— Acts on instinct without strategy
+— Gets the attention Tiger pretends not to want
 ```
 
 ---
