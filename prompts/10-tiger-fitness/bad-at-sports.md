@@ -84,11 +84,11 @@ STOP.
 
 ```
 Stylized 3D animation, warm family-film aesthetic.
-@Image1 as Tiger. Location: modern gym, other anthropomorphic animals working out in background.
+@Image1 as Tiger. Location: modern gym, human gym-goers in background.
 9:16 vertical, 15 seconds.
 
-[0-2s] HOOK: Busy gym. A BEAR is benching enormous weights on one side.
-A GAZELLE is sprinting on a treadmill. Tiger enters.
+[0-2s] HOOK: Busy gym. A large muscular man is benching enormous weights on one side.
+A woman is sprinting on a treadmill at serious pace. Tiger enters.
 He surveys the room with the expression of someone who owns the place.
 
 [2-5s] Tiger approaches the weight rack. Studies it carefully.
@@ -99,8 +99,8 @@ He lifts it. His face: total focus. His form: surprisingly serious for the weigh
 maximum seriousness and minimum weight. He checks his reflection between sets.
 He nods. Good form.
 
-[9-12s] The bear walks past. Glances at Tiger's weights. 
-Bear's face: genuinely trying not to react.
+[9-12s] The muscular man walks past. Glances at Tiger's weights.
+Man's face: genuinely trying not to react.
 Tiger: catches the look. Raises one eyebrow.
 Adds another small weight. "Прогрессивная нагрузка."
 
@@ -200,7 +200,7 @@ STOP.
 
 ```
 Stylized 3D animation, warm family-film aesthetic.
-@Image1 as Tiger + a new character (anthropomorphic fox or leopard).
+@Image1 as Tiger + a human woman (athletic, actually fit).
 Location: building entrance/lobby. 15 seconds.
 
 [0-2s] HOOK: Tiger arrives home after his run. He looks like he ran 10km.
