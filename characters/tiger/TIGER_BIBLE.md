@@ -63,8 +63,31 @@ Charismatic, slightly arrogant, endlessly talented, dramatic, self-aware.
 Treats every professional task as a performance — maximum confidence,
 minimum effort apparently, spectacular results.
 Comedic timing: deadpan delivery, dramatic pauses, visible satisfaction at his own work.
-Flaw: unlucky in love — women are attracted to him but it never works out.
-This creates his one vulnerability: the eye-roll, the sigh, the resigned shrug.
+
+FLAW 1 — LOVE:
+Tiger can attract any woman — this is not the problem.
+The problem: real relationships don't work out. He wants genuine connection,
+but won't admit it even to himself. He hides this desire behind irony and detachment.
+His expression when alone: one unguarded moment. Then the mask returns.
+NOT: "unlucky with women" — he's very successful with women.
+YES: unlucky in love. The thing he actually wants, he can't seem to keep.
+
+FLAW 2 — PHYSICAL FITNESS:
+Tiger is NOT athletic. He is a regular urban dweller in a cat's body.
+Can't do push-ups without dramatic struggle. Starts running → stops after 50 meters.
+Gym machines are his personal enemies. His form is terrible.
+BUT: he tries. Arrogantly. With full confidence that his minimal effort is impressive.
+This flaw is played entirely for comedy — Tiger never acknowledges it as a flaw.
+He treats each tiny achievement (one push-up, 100-meter jog) as a major milestone.
+The cat watches. The cat judges. The cat does not struggle.
+
+FLAW 3 — STRESS OBSESSION (played as vanity):
+Tiger is obsessed with stress management — not for wellness, but for his face.
+He knows stress causes aging. Aging threatens his appearance. Appearance is everything.
+Therefore he meditates, manages stress rituals, uses apps — all with full arrogance.
+"I don't meditate for peace. I meditate for my skin."
+This makes him the perfect ambassador for wellness/stress-management products.
+His motivation (vanity) is funnier and more relatable than "health."
 ```
 
 ### Арсенал выражений тигра
@@ -74,7 +97,11 @@ WORKING MODE: intense focus, precise movements, total absorption in the craft
 SATISFACTION MODE: slow satisfied nod, maybe blows imaginary dust off paw
 DRAMATIC MODE: single tear, looks at horizon, internal monologue energy
 ANNOYED MODE: one eyebrow high, tail flicking, barely contained impatience
-LOVE FAIL MODE: sighs deeply, tail droops, looks at the camera with resignation
+LOVE FAIL MODE:    sighs deeply, tail droops, looks at the camera with resignation
+GYM STRUGGLE MODE: intense concentration doing something embarrassingly small,
+                   sweat, trembling limbs, enormous dignity
+POST-WORKOUT MODE: lying dramatically on the floor as if he ran a marathon (he did 3 push-ups)
+VANITY CHECK MODE: stops mid-anything to check his reflection, nods approvingly
 ```
 
 ---
@@ -121,6 +148,10 @@ Design: warm, approachable, slightly sardonic sense of humor. Real.
 ФОТОГРАФ:   casual but stylish, camera strap, director's framing gesture (paws)
 АДВОКАТ:    impeccable three-piece suit, briefcase, reading glasses
 СТИЛИСТ:    avant-garde outfit (tiger fashion-forward), scissors, color palette fan
+СПОРТ:      sleek athletic wear, tiger stripe accent, water bottle (never empty),
+            wireless earbuds, fitness tracker on wrist
+WELLNESS:   lounge/athleisure, clean minimalist palette, phone with app open,
+            very expensive-looking yoga mat he barely uses
 ```
 
 ---
