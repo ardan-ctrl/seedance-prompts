@@ -70,6 +70,7 @@ Clean fur texture, smooth animation. No subtitles. No text in frame.
 
 ### КИТАЙСКИЙ (即梦 / Jimeng)
 
+**Стандартный блок:**
 ```
 @图片1作为老虎角色的外形参考（2D卡通风格转化为stylized 3D animation）。
 保持：橙色黑纹皮毛、半眯傲慢的黄金色眼睛、修长优雅的身材、自信的肢体语言。
@@ -84,6 +85,21 @@ Clean fur texture, smooth animation. No subtitles. No text in frame.
 [ВАШ СЦЕНАРИЙ]
 
 保持角色造型全程一致，毛发纹理清晰，动作流畅。不生成字幕。
+```
+
+**Если нужна 2D→3D конверсия (когда загружаешь 2D-арт):**
+```
+@图片1作为主角造型参考（2D卡通风格）。
+基于@图片1的角色外形，转化为stylized 3D animation风格：
+保持：橙色斑纹皮毛、黄金色半眯眼睛、修长优雅身材比例、傲慢自信的肢体语言。
+风格转换：从2D平面卡通 → cinematic stylized 3D，添加volumetric lighting和fur texture。
+不要改变：角色性格、斑纹图案、体型比例、表情特征。
+```
+
+**Два референса (Тигр + Кот):**
+```
+@图片1作为老虎角色的造型参考，@图片2作为黑猫角色的造型参考。
+两个角色均转化为stylized 3D animation风格，保持各自的外形特征和性格。
 ```
 
 ---

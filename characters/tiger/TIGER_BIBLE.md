@@ -123,14 +123,6 @@ Dramatic flair — not for approval, but because life without drama is dull.
 "Не ради покоя. Ради лица." — но побочный эффект реален.
 ```
 
-FLAW 3 — STRESS OBSESSION (played as vanity):
-Tiger is obsessed with stress management — not for wellness, but for his face.
-He knows stress causes aging. Aging threatens his appearance. Appearance is everything.
-Therefore he meditates, manages stress rituals, uses apps — all with full arrogance.
-"I don't meditate for peace. I meditate for my skin."
-This makes him the perfect ambassador for wellness/stress-management products.
-His motivation (vanity) is funnier and more relatable than "health."
-```
 
 ### Арсенал выражений тигра
 ```
@@ -219,29 +211,113 @@ The cat does what Tiger won't permit himself to do:
 
 ---
 
-## АУТФИТЫ ПО ПРОФЕССИИ
+## АУТФИТЫ ПО ПРОФЕССИИ (с позами)
 
 ```
-СТОМАТОЛОГ: white lab coat, blue medical mask (can be pulled down for reactions),
-             blue latex gloves, small mirror/tools
-БАРБЕР:     black barber jacket, tool belt with scissors/clippers, classic comb
-ШЕФ-ПОВАР:  white chef's toque (slightly too large), double-breasted chef coat,
-             optional apron with paw prints from handling ingredients
-МЕХАНИК:    grey coveralls (open at top, tied at waist), oil stains, wrench in hand
-ПОРТНОЙ:    three-piece suit (he dresses UP for tailoring), measuring tape around neck,
-             pincushion wristband, tiny glasses for close work
-ЛИЧНЫЙ ТРЕНЕР: sleek athletic wear, tiger pattern accent, whistle
-ТРЕНЕР СОБАК:  smart casual, training clicker, treats pouch
-ТАТУ-МАСТЕР:  black apron, sleeve rolled up showing his own stripe pattern,
-              latex gloves, tattoo machine
-СВАДЕБНЫЙ ОРГАНИЗАТОР: formal suit, clipboard, earpiece, barely contained stress
-ФОТОГРАФ:   casual but stylish, camera strap, director's framing gesture (paws)
-АДВОКАТ:    impeccable three-piece suit, briefcase, reading glasses
-СТИЛИСТ:    avant-garde outfit (tiger fashion-forward), scissors, color palette fan
-СПОРТ:      sleek athletic wear, tiger stripe accent, water bottle (never empty),
-            wireless earbuds, fitness tracker on wrist
-WELLNESS:   lounge/athleisure, clean minimalist palette, phone with app open,
-            very expensive-looking yoga mat he barely uses
+СТОМАТОЛОГ:
+white dental lab coat (knee-length), light blue scrubs underneath, white latex gloves,
+small round wire-frame magnification glasses perched on nose, dental mirror held
+casually — like a conductor's baton. Posture: appraising the situation with visible
+professional disdain. Optional: surgical mask pulled down below chin.
+
+БАРБЕР:
+fitted black barber's jacket with silver snap buttons, white towel draped over left forearm,
+premium scissors in right hand — held upward, pointing at ceiling, dramatically.
+Optional: thin black barber's apron. Posture: circling client like a sculptor
+evaluating raw material.
+
+ШЕФ-ПОВАР:
+classic white double-breasted chef coat with black piping, tall white toque (slightly
+tilted — rakish edge to the arrogance), black and white checkered pants.
+Pristine white kitchen towel tucked at waist. Holding: chef's knife tip on cutting board
+OR ladle raised mid-inspection. Expression: appraising whatever culinary disaster arrived.
+
+МЕХАНИК:
+fitted navy blue coveralls (sleeves pushed to elbows), vintage logo patch on chest,
+oil-stained leather tool belt, safety glasses pushed up to forehead (never actually worn).
+Holding: socket wrench, tapping it against palm with slow rhythmic patience
+while surveying the wreck that just drove in.
+
+ПОРТНОЙ:
+fitted charcoal grey vest over crisp white dress shirt, sleeve garters (old-fashioned
+armbands), measuring tape draped around neck, slim charcoal trousers, dress shoes.
+Holding: a single pin pinched between two claws, eyeing client with the look of someone
+about to perform a miracle on impossible raw material.
+
+ТАТУ-МАСТЕР:
+black apron, one sleeve rolled up showing his own stripe pattern (the irony),
+latex gloves, tattoo machine in hand. The stripes ARE his credentials.
+
+ТРЕНЕР (personal):
+fitted black athletic tracksuit with orange accent stripe (mirrors his fur — intentional),
+white sneakers, stopwatch around neck. Arms crossed — authority, not just smugness.
+No whistle. Too pedestrian for this tiger.
+
+СТИЛИСТ:
+avant-garde outfit (tiger fashion-forward), scissors, color palette fan.
+He dresses better than anyone he's styling. This is the point.
+
+ФОТОГРАФ:
+fitted black turtleneck, slim black trousers — minimal, editorial.
+Large professional camera on strap. One hand raised gesturing direction,
+one eye slightly more closed — art-directing.
+
+АДВОКАТ:
+impeccable three-piece suit, briefcase, reading glasses. Nothing informal.
+Not one thread out of place.
+
+СПОРТ (personal use):
+sleek athletic wear, tiger stripe accent, water bottle (never empty),
+wireless earbuds, fitness tracker on wrist that tracks 50-meter runs very seriously.
+
+ВЕЛНЕСС/HOME:
+lounge/athleisure, clean minimalist palette, phone with app open,
+very expensive-looking yoga mat he barely uses. Still looks good.
+```
+
+### Лайтинг по профессиям
+
+| Пространство | Акцент освещения |
+|-------------|-----------------|
+| Dental clinic (white/teal) | Cool overhead + warm fill на тигре |
+| Barbershop (warm wood, mirrors) | Warm Edison bulbs + mirror reflections |
+| Professional kitchen (steel) | Mixed warm overhead + cool equipment glow |
+| Auto workshop (concrete/metal) | Industrial overhead + warm work lamps |
+| Tailoring atelier (dark wood) | Warm directional task lighting |
+| Gym / dojo | Natural light + soft overhead |
+| Home / wellness | Warm ambient + window light |
+| Photography studio | Multiple rim lights, creative setup |
+
+### Character Sheet промпт (для генерации референсов)
+
+```
+Character design sheet — stylized 3D animation, warm cinematic aesthetic.
+Character: The Tiger, anthropomorphic professional.
+Clean neutral studio background.
+
+Full-body views:
+- Front: A-pose, arms relaxed
+- Side (left profile): A-pose
+- Back: A-pose
+
+Details:
+Build: slim, elongated, elegant — fashion-model proportions for an anthropomorphic tiger.
+Fur: bright orange base, sharp black diagonal stripes; white/cream on chest and inner arms.
+Eyes: half-lidded golden amber, permanently arrogant expression.
+Ears: small, rounded, set wide on head.
+Whiskers: prominent, slightly upward angle.
+Tail: long, orange-black striped, slight curl at tip.
+Hands: anthropomorphic, 4 fingers, retractable claws visible but not extended.
+
+Expression sheet (bust shots):
+- Neutral: half-lidded smug default
+- Professional focus: eyes narrowed, appraising
+- Mild disdain: single eyebrow raised, slight nose wrinkle
+- Rare approval: full eye-open, subtle satisfied nod
+- Surprise (rare): eyes fully open — comedic contrast to usual half-lid
+- Peak smugness: slow blink, hint of smile, arms crossed tighter
+
+Warm studio lighting, consistent proportions across all views.
 ```
 
 ---
@@ -259,13 +335,15 @@ Sound design: implied through visual rhythm — fast cuts synced to implied beat
 
 ---
 
-## PROMPT REFERENCE BLOCK (вставляй в начало каждого промпта)
+## ТЕХНИЧЕСКОЕ: ПОЧЕМУ НЕ "PIXAR"
+
+Jimeng IP-фильтр блокирует прямые ссылки на студии. Используй описания:
 
 ```
-Pixar-quality cinematic 3D animation, adult Pixar aesthetic (Zootopia/Incredibles tone),
-warm cinematic studio lighting, shallow depth of field, rich warm color grading.
-Main character: slim anthropomorphic tiger (@Image1), orange-and-black striped,
-walks upright on hind legs, cream chest, heavy-lidded arrogant eyes, long tail.
-Maintain exact character appearance from @Image1 throughout.
-9:16 vertical, 15 seconds.
+❌ "Pixar-style"          → ✅ "stylized 3D animation, warm family-film aesthetic"
+❌ "like Zootopia"        → ✅ "expressive anthropomorphic character design, adult tone"
+❌ "Pixar quality"        → ✅ "cinematic 3D, volumetric lighting, subsurface scattering on fur"
+❌ "The Incredibles vibe" → ✅ "adult situational humor, sophisticated comedic tone"
 ```
+
+→ Готовые промпт-блоки (EN + CN): [TIGER_START_HERE.md](../../TIGER_START_HERE.md)
