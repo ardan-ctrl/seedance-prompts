@@ -3,6 +3,76 @@
 
 ---
 
+## КТО ТАКОЙ ТИГР — за 30 секунд
+
+```
+Антропоморфный тигр. Живёт в Лондоне. Работает мастером — барбером, дантистом,
+шефом, механиком — не потому что нужно, а потому что ему интересно.
+
+Архетип: ЛЮЦИФЕР. Уже всё имеет. Выбрал эту жизнь сам, из любопытства к людям.
+Профессионально непобедим — это фон, не сюжет.
+Не спортивен (исследует это как антрополог, с достоинством).
+В любви: может получить кого угодно. Настоящее — не держится. Скрывает что хочет.
+
+Рядом: кот (хаос-агент, Мазикин — всегда прав) + Нора (Линда Мартин — единственная честная).
+
+Его голос: "Rent is insane. It rains sideways. I'm staying."
+```
+
+---
+
+## ЕГО ГОЛОС — формула за 1 минуту
+
+```
+ПРИНЦИП: констатирует факты, не убеждает. Уверенность без усилия.
+
+СТРУКТУРА: короткие предложения. каждое на своей строке. точка — не восклицательный.
+
+УЯЗВИМОСТЬ: нейтральное наблюдение, не жалоба.
+  ❌ "мне так сложно с отношениями"
+  ✅ "What happens after that keeps getting confusing."
+
+ФИНАЛЬНЫЙ УДАР: последние 2 слова — самые сильные.
+  "She tried to kiss me after. Unexpected. Understandable."
+  "Book Paper Tiger before your competitors develop taste."
+  "This is my cat. Don't ask."
+
+НИКОГДА: восклицательные знаки / "невероятно" / "подписывайтесь" / объяснения чувств.
+```
+
+**Быстрые шаблоны caption по типу видео:**
+
+```
+ПРОФЕССИОНАЛЬНАЯ ТРАНСФОРМАЦИЯ:
+[одно наблюдение о ситуации до]
+[факт о результате — коротко]
+[поворот или открытая петля]
+Пример: "He said it was beyond repair. / It wasn't. / Stay close."
+
+ФИТНЕС-КОМЕДИЯ:
+[серьёзное заявление о тренировк��]
+[противоречащий факт — нейтрально]
+[вывод с достоинством]
+Пример: "I'm working on myself. Training. Discipline. / [3 push-ups] / We'll track the rise."
+
+LOVE FAIL:
+[что работает — факт]
+[что не работает — наблюдение, не жалоба]
+Пример: "I love women. Women love me. / That part works perfectly. / What happens after keeps getting confusing."
+
+КОТ:
+[одно действие кота]
+[реакция тигра или отказ от объяснений]
+Пример: "This is my cat. / Don't ask."
+
+НОРА:
+[момент близости — точная деталь]
+[вывод в одну строку]
+Пример: "She is my opposite in several unnecessary ways. / And still the only person who truly understands me."
+```
+
+---
+
 ## 5 ПРАВИЛ КОТОРЫЕ НЕЛЬЗЯ НАРУШАТЬ
 
 ```
@@ -210,20 +280,36 @@ Stay close.
 
 ---
 
+## ВАЖНО: ЛЮЦИФЕР-ЭНЕРГИЯ В ПРОМПТАХ
+
+```
+Промпты в папках 07–11 написаны ДО и ПОСЛЕ Люцифер-рефрейма.
+Если читаешь промпт и там "тигр доказывает себя" / "тигр злится на скептика" —
+это старая версия. Применяй фильтр:
+
+СТАРАЯ ЭНЕРГИЯ → НОВАЯ:
+"Tiger suppresses anger"  → "Tiger: mild curiosity. Almost fond."
+"Tiger proves himself"    → "Tiger does the work. Client is transformed."
+"Tiger's vindication"     → "The audience witnessed something extraordinary."
+"Tiger fights back"       → нет — он никогда не боролся. Ему не нужно.
+```
+
+---
+
 ## КАРТА ФАЙЛОВ — ЧТО ОТКРЫТЬ ЕСЛИ НУЖНО БОЛЬШЕ
 
 | Нужно | Открой |
 |-------|--------|
 | Характер, мотивации, арки | [TIGER_BIBLE.md](characters/tiger/TIGER_BIBLE.md) |
-| Голос, как писать текст | [TIGER_VOICE.md](characters/tiger/TIGER_VOICE.md) |
+| Голос, разбор паттернов | [TIGER_VOICE.md](characters/tiger/TIGER_VOICE.md) |
 | Beat sheets (структура эпизода) | [BEAT_SHEETS.md](narrative/BEAT_SHEETS.md) |
-| Клиффхэнгеры (готовые) | [CLIFFHANGER_WRITING.md](narrative/CLIFFHANGER_WRITING.md) |
+| Клиффхэнгеры (20+ готовых) | [CLIFFHANGER_WRITING.md](narrative/CLIFFHANGER_WRITING.md) |
 | Хуки (больше вариантов) | [HOOK_SYSTEM.md](characters/tiger/HOOK_SYSTEM.md) |
 | Идеи клиентов "до" | [BEFORE_CLIENTS_CATALOG.md](characters/tiger/BEFORE_CLIENTS_CATALOG.md) |
 | Промпты: профессии | [prompts/07-tiger-professional/](prompts/07-tiger-professional/) |
 | Промпты: кот и Нора | [prompts/09-tiger-character-stories/](prompts/09-tiger-character-stories/) |
 | Промпты: фитнес | [prompts/10-tiger-fitness/](prompts/10-tiger-fitness/) |
 | Промпты: стресс/велнесс | [prompts/11-tiger-wellness/](prompts/11-tiger-wellness/) |
-| Стратегия, пиллары | [TIGER_CONTENT_STRATEGY.md](characters/tiger/TIGER_CONTENT_STRATEGY.md) |
+| Стратегия, пиллары, ритм | [TIGER_CONTENT_STRATEGY.md](characters/tiger/TIGER_CONTENT_STRATEGY.md) |
 | Алгоритм 2026, parasocial | [BLOGGER_MECHANICS.md](characters/tiger/BLOGGER_MECHANICS.md) |
-| Микродрама теория | [MICRO_DRAMA_MASTERCLASS.md](narrative/MICRO_DRAMA_MASTERCLASS.md) |
+| Микродрама, 爽点, механики | [MICRO_DRAMA_MASTERCLASS.md](narrative/MICRO_DRAMA_MASTERCLASS.md) |
