@@ -1,68 +1,71 @@
-# Seedance 2.0 / Jimeng — Prompt Mastery System
+# Paper Tiger — Система контента
 
-> Профессиональная система промптов для AI-видеогенератора **Seedance 2.0** (即梦, ByteDance).
-> Фокус: анимация, мультяшные персонажи, трансформации, кинематографичные истории.
+> Полная система для создания видео-контента анимированного персонажа Тигра.
+> Seedance 2.0 (即梦) + Instagram Reels.
 
 ---
 
-## Навигация
+## → [TIGER_START_HERE.md](TIGER_START_HERE.md)
+**Открывай это когда садишься делать видео.**
+Промпт-блоки, хуки, клиффхэнгеры, капшны — всё в одном месте.
 
-| Раздел | Что внутри |
+---
+
+## Архитектура системы
+
+### Персонаж
+| Файл | Что внутри |
+|------|-----------|
+| [TIGER_BIBLE.md](characters/tiger/TIGER_BIBLE.md) | Характер, архетип Люцифера, правила мира |
+| [TIGER_VOICE.md](characters/tiger/TIGER_VOICE.md) | Как он говорит. Голос, структуры, паттерны |
+| [TIGER_CONTENT_STRATEGY.md](characters/tiger/TIGER_CONTENT_STRATEGY.md) | 5 пилларов, ритм публикаций |
+| [BLOGGER_MECHANICS.md](characters/tiger/BLOGGER_MECHANICS.md) | Алгоритм 2026, parasocial, что убивает канал |
+| [HOOK_SYSTEM.md](characters/tiger/HOOK_SYSTEM.md) | Хуки и финальные твисты |
+| [BEFORE_CLIENTS_CATALOG.md](characters/tiger/BEFORE_CLIENTS_CATALOG.md) | Архетипы клиентов |
+
+### Нарратив
+| Файл | Что внутри |
+|------|-----------|
+| [BEAT_SHEETS.md](narrative/BEAT_SHEETS.md) | 6 структур эпизодов с таймкодами |
+| [CLIFFHANGER_WRITING.md](narrative/CLIFFHANGER_WRITING.md) | 20+ готовых клиффхэнгеров |
+| [MICRO_DRAMA_MASTERCLASS.md](narrative/MICRO_DRAMA_MASTERCLASS.md) | Китайская микродрама, 爽点, механики |
+
+### Готовые промпты
+| Папка | Что внутри |
+|-------|-----------|
+| [prompts/07-tiger-professional/](prompts/07-tiger-professional/) | Барбер, дантист, шеф, механик, портной, тату |
+| [prompts/08-tiger-lifestyle/](prompts/08-tiger-lifestyle/) | Энергетики, продуктовая интеграция |
+| [prompts/09-tiger-character-stories/](prompts/09-tiger-character-stories/) | Тигр+Кот, Love fail, Тигр+Нора |
+| [prompts/10-tiger-fitness/](prompts/10-tiger-fitness/) | Тигр и спорт (комедия) |
+| [prompts/11-tiger-wellness/](prompts/11-tiger-wellness/) | Стресс, медитация, велнесс-приложение |
+
+---
+
+## Персонаж в одном абзаце
+
+Тигр — единственное антропоморфное животное в мире людей. Живёт в Лондоне. Работает мастером (барбер, дантист, шеф — зависит от эпизода) не потому что нужно, а потому что интересно. У него уже всё есть. Его архетип — Люцифер: существо с полной свободой, выбравшее жить среди людей из любопытства. Профессионально непобедим. Физически не спортивен (пытается с достоинством). В любви — умеет получить кого угодно, не умеет удержать то что важно. Рядом: безымянный чёрный кот (хаос-агент) и Нора (единственный честный человек в его жизни).
+
+---
+
+## Технический стек
+
+- **Генератор:** Seedance 2.0 / 即梦 (Jimeng)
+- **Интерфейсы:** [higgsfield.ai](https://higgsfield.ai/seedance/2.0) (EN) · [jimeng.jianying.com](https://jimeng.jianying.com/) (CN)
+- **Формат:** 9:16 · 12-15 секунд · 2K
+- **Референсы:** @Image1 (Tiger) · @Image2 (Cat) — генерировать в одной сессии
+
+---
+
+## Общий Seedance-инструментарий (не Tiger)
+
+<details>
+<summary>Развернуть</summary>
+
+| Раздел | Содержание |
 |--------|-----------|
-| [`MASTER_SYSTEM.md`](MASTER_SYSTEM.md) | **Читай первым.** Формулы, принципы, анатомия промпта |
-| [`prompts/01-transformations/`](prompts/01-transformations/) | Трансформации персонажей — самый вирусный жанр |
-| [`prompts/02-animation-styles/`](prompts/02-animation-styles/) | Chibi, манга, клеймация, пиксель, стоп-моушн |
-| [`prompts/03-action-cinematic/`](prompts/03-action-cinematic/) | Экшн, файты, кино-сцены |
-| [`prompts/04-cartoon-stories/`](prompts/04-cartoon-stories/) | Эмоциональные истории, арки персонажей |
-| [`prompts/05-anime/`](prompts/05-anime/) | Аниме-специфика: демоны, драконы, idol, дуэли |
-| [`prompts/06-chinese-jimeng/`](prompts/06-chinese-jimeng/) | Промпты на китайском для 即梦 |
-| [`templates/`](templates/) | Готовые шаблоны: CRAFT, таймкод, раскадровка |
-| [`techniques/`](techniques/) | Продвинутые техники: POV, loop, ритм, стиль |
-| [`characters/`](characters/) | Character sheet, консистентность персонажа |
-| [`resources/`](resources/) | GitHub-репозитории, веб-ресурсы, платформы |
+| [MASTER_SYSTEM.md](MASTER_SYSTEM.md) | Анатомия промпта, стили, камеры |
+| [prompts/01-06/](prompts/) | Трансформации, аниме, action, истории |
+| [techniques/](techniques/) | Snyder rhythm, seamless loop, destabilized POV |
+| [templates/](templates/) | CRAFT, таймкод, раскадровка |
 
----
-
-## Быстрый старт
-
-### Хочешь сделать трансформацию персонажа?
-→ [`prompts/01-transformations/`](prompts/01-transformations/) + шаблон [`templates/timecode-storyboard.md`](templates/timecode-storyboard.md)
-
-### Хочешь сделать мультяшную анимационную историю?
-→ [`prompts/04-cartoon-stories/`](prompts/04-cartoon-stories/) + [`MASTER_SYSTEM.md#стили`](MASTER_SYSTEM.md)
-
-### Хочешь аниме-экшн?
-→ [`prompts/05-anime/`](prompts/05-anime/) + [`techniques/snyder-rhythm.md`](techniques/snyder-rhythm.md)
-
-### Хочешь работать с мультяшным героем в разных ситуациях?
-→ [`characters/character-sheet-template.md`](characters/character-sheet-template.md) → потом любой из `prompts/`
-
----
-
-## Что умеет Seedance 2.0
-
-- Видео до **15 секунд**, нативное **2K** (2048×1080)
-- Принимает до **12 файлов**: 9 изображений + 3 видео + 3 аудио
-- **@-референсная система**: персонаж из фото, движение из видео, ритм из аудио
-- Поддержка **8+ языков** для синхронизации губ
-- Нативное переключение между **анимационными стилями** внутри одного проекта
-
----
-
-## Топ-платформы
-
-| Платформа | Для кого |
-|-----------|---------|
-| [jimeng.jianying.com](https://jimeng.jianying.com/) | Основной интерфейс (китайский) |
-| [higgsfield.ai](https://higgsfield.ai/seedance/2.0) | Западный интерфейс, лучший UX |
-| [replicate.com](https://replicate.com) | API для разработчиков |
-| [fal.ai](https://fal.ai) | Serverless API |
-
----
-
-## GitHub-репозитории сообщества
-
-- [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) — ⭐1200+ — 2000+ промптов
-- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) — кураторская подборка
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) — ⭐143 — мультиязычный
-- [seedanceprompts/seedance-prompts](https://github.com/seedanceprompts/seedance-prompts) — агрегатор
+</details>
